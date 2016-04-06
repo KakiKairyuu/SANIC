@@ -3,15 +3,16 @@
   color: white;
 }
 
-.intro{
-  color:yellow;
+p {
+  color: red;
+  border:1px solid #21AEB7;
 }
 
 div {
   background-color: rgb(30, 30, 30);
 }
 
-#other {
-  background-color: lime;
-  color: wheat;
+.intro{
+  color:yellow;
 }
+
