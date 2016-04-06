@@ -3,6 +3,10 @@
   color: white;
 }
 
+#main.hamburger{
+  border-radius: 8px;
+}
+
 p {
   color: red;
   border:1px solid #21AEB7;
