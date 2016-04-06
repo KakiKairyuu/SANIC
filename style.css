@@ -7,6 +7,10 @@
   color:yellow;
 }
 
+div {
+  background-color: rgb(30, 30, 30);
+}
+
 #other {
   background-color: lime;
   color: wheat;
