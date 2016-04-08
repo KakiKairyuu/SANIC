@@ -24,3 +24,7 @@ div {
   border-radius: 8px;
 }
 
+#well.hamburger {
+  border-radius: 8px;
+  background-color: (0, 0, 0);
+}
